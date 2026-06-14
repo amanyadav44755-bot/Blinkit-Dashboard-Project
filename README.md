@@ -1,7 +1,5 @@
-🚀 End-to-End Power BI Retail Sales Dashboard (Blinkit) | Data Analysis Project
-# Blinkit-Dashboard-Project
 # 🛒 Blinkit Sales Analysis Dashboard | Power BI
-
+🚀 End-to-End Retail Sales Analytics Project (Power BI + Kaggle Dataset)
 ## 📌 Project Overview
 
 This Power BI dashboard provides a comprehensive analysis of Blinkit's sales performance, customer purchasing behavior, and outlet operations. The project transforms raw retail sales data into actionable business insights through interactive visualizations and KPI tracking.
@@ -116,10 +114,13 @@ The dataset contains information related to:
 
 ### 🛒 Blinkit Sales Analysis Dashboard
 
-![Blinkit Dashboard](https://github.com/amanyadav44755-bot/Blinkit-Dashboard-Project/blob/main/Blinkit%20Dashboard.png)
+![Blinkit Dashboard](![Blinkit Dashboard](images/Blinkit Dashboard.png))
 
 ---
+## 📊 Project Impact
 
+This dashboard helps stakeholders quickly identify revenue trends, optimize outlet performance, and improve decision-making using data-driven insights.
+------
 ## 🎯 Conclusion
 
 This project demonstrates the use of Power BI for transforming raw retail sales data into meaningful business insights. Through data modeling, DAX measures, KPI tracking, and interactive visualizations, the dashboard helps businesses monitor performance, optimize operations, and support strategic decision-making.
