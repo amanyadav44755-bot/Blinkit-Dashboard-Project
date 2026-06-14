@@ -113,9 +113,7 @@ The dataset contains information related to:
 ## 📸 Dashboard Preview
 
 ### 🛒 Blinkit Sales Analysis Dashboard
-
-![Blinkit Dashboard](![Blinkit Dashboard](images/Blinkit Dashboard.png))
-
+![Blinkit Dashboard](https://github.com/amanyadav44755-bot/Blinkit-Dashboard-Project/blob/main/Blinkit%20Dashboard.png)
 ---
 ## 📊 Project Impact
 
